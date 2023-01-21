@@ -45,3 +45,11 @@ q
 Aapp/src/main/java/andres/rangel/aristicompose/models/SuperHero.kt,5/7/5746fe5accd74c06172c925ad9c00715dc5c3b23
 n
 >app/src/main/java/andres/rangel/aristicompose/models/Routes.kt,1/d/1d8e423432ba2e715d7ba4a6f8f6c8982424ffaa
+<
+build.gradle,f/0/f07866736216be0ee2aba49e392191aeae700a35
+
+Oapp/src/main/java/andres/rangel/aristicompose/instagram/login/LoginViewModel.kt,5/1/51b8b28737dfc598627eaba7751e2506646a7413
+|
+Lapp/src/main/java/andres/rangel/aristicompose/instagram/login/LoginScreen.kt,5/a/5ab86fdf846ed12c48b4a9e8b20ca173b8b78a9e
+@
+app/build.gradle,f/4/f4a01d6a4fcb971362ec00a83903fd3902f52164

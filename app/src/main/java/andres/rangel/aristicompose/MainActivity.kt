@@ -1,7 +1,6 @@
 package andres.rangel.aristicompose
 
-import andres.rangel.aristicompose.instagram.LoginScreen
-import andres.rangel.aristicompose.instagram.login.LoginViewModel
+import andres.rangel.aristicompose.animations.VisibilityAnimation
 import andres.rangel.aristicompose.ui.theme.AristiComposeTheme
 import android.os.Bundle
 import androidx.activity.ComponentActivity
@@ -14,7 +13,7 @@ class MainActivity : ComponentActivity() {
         super.onCreate(savedInstanceState)
         setContent {
             AristiComposeTheme {
-                LoginScreen(LoginViewModel())
+                VisibilityAnimation()
             }
         }
     }
